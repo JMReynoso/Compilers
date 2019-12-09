@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 import java.util.regex.*;
 
-public class code gen {
+public class code_gen {
 
 	public static void main(String args[]) throws IOException {
 
