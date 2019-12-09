@@ -1,5 +1,3 @@
 # Compilers
 
-The objective of this program is to imitate a C- compiler using Java. This project is still a work in progress. However, the program in its current state can recognize tokens and check to see if the input grammar can be accepted or not.
-
-The source code can be found in "compilers.java"
+The objective of this program is to imitate a C- compiler using Java. All java files should contain a lexical analyzer as well as a recurssive decendant parser.
