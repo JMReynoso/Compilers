@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 import java.util.regex.*;
 
-public class compilers {
+public class parser {
 
 	public static void main(String args[]) throws IOException {
 
